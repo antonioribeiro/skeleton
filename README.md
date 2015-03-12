@@ -14,7 +14,7 @@ PSRs you support to avoid any confusion with users and contributors.
 
 ## Install
 
-Via Composer
+Via [Composer](https://getcomposer.org/doc/01-basic-usage.md)
 
 ``` bash
 $ composer require league/:package_name
